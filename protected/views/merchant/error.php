@@ -1,0 +1,1 @@
+<p class="uk-text-danger"><?php echo $message?></p>

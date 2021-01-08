@@ -1,0 +1,22 @@
+.section-process{
+padding:10px;
+color:#aaaaaa;
+}
+.section-process .active{
+color:#000;
+}
+
+.orange-header{
+background:#ff4e41;
+color:#fff;
+padding:10px;
+}
+.orange-header img{
+max-width:200px;
+display:block;
+margin:auto;
+}
+
+.footer{
+padding:20px;
+}

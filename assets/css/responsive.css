@@ -1,0 +1,770 @@
+
+@media only screen and (max-width : 1024px) 
+{
+
+.top-menu-wrapper img.logo{
+border:0px solid white;
+}
+
+.search-menu
+{
+padding-top:10px;
+}
+
+.mobile-banner-wrap img{
+width: 100%;
+}
+
+.search-wraps h1,
+.search-wraps p,
+.search-wraps p a
+{
+color:#0d1115;
+}
+
+.top-menu-wrapper
+{
+position:relative;
+background:#f75d34;
+border-bottom:2px solid #14171b;
+}
+
+.top-menu-wrapper .col-b,
+.parallax-mirror,
+.logo-desktop,
+.search-left-content,
+.search-view-map,
+.menu-right-content,
+#change-package-wrap,
+#section-social-login
+{
+display:none;
+}
+
+#parallax-wrap{
+background-image:none !important;
+}
+
+.menu-right-content.modal 
+{
+padding-top:20px;
+}
+
+.search-wraps,
+.search-wraps.single-search,
+.parallax-search .search-wraps
+{
+padding-top:0;
+}
+
+#parallax-wrap
+{
+min-height:inherit;
+background:none;
+border:0px solid red;
+padding-bottom:20px;
+padding-top:20px;
+}
+
+.search-input-wraps{
+border:1px solid #444;
+}
+
+.mobile-home-banner,
+.mobile-banner,
+.logo-mobile,
+.menu-nav-mobile,
+#mobile-filter-handle,
+#mobile-viewmap-handle,
+.cart-mobile-handle,
+#mobile-social-login
+{
+display:block;
+}
+
+body .mobile-banner
+{
+max-height:60%;
+}
+
+.search-wraps h1{
+font-size:45px;
+}
+.search-input-wraps{
+padding:10px 20px;
+}
+
+.sections h2, .sections h4
+{
+font-size:25px;
+}
+
+.section-footer h3{
+font-size:14px;
+}
+
+.search-wraps{
+width:auto;
+border:0px solid red;
+}
+
+.advance-search.search-wraps h1{
+padding-top:10px;
+}
+
+.search-wraps p, .search-wraps p a,
+.search-wraps h1
+{
+margin:0;
+}
+
+.menu-top-menu .green-button,
+.menu-top-menu .orange-button
+{
+background:none;
+border:none;
+padding:0;
+}
+
+#cuisine_chosen{
+width:100% !important;
+}
+
+.section-checkout a.forgot-pass-link2{
+padding-bottom:10px;
+}
+
+.with-padleft{
+padding-left:15px !important;
+}
+
+.section-menu .row .menu-left-content{
+width:100%;
+}
+
+}
+
+@media only screen and (max-width : 970px) 
+{
+
+.location-fee-wrap{
+min-width: auto;
+}
+
+.top-menu-wrapper img.logo{
+border:0px solid brown;
+max-width:140px;
+min-width:inherit;
+}
+
+/* contact */
+#contact-map,
+.section-contact .container-map
+{
+position:relative;
+}
+
+.section-contact .container-map .inner{
+max-width:100%;
+min-width:100%;
+}
+
+.container-map .dim,
+.container-map .black
+{
+min-height:inherit;
+max-height:inherit;
+padding:30px;
+border:none;
+}
+.section-contact .container-map .row{
+margin-left:0;
+margin-right:0;
+}
+.sections.section-contact{
+ min-height: auto;
+}
+.container-map .dim{
+background: rgb(6, 6, 6); 
+background:rgba(6, 6, 6, 0.9);
+border-bottom:none;
+}
+.container-map .black{
+background:none;
+padding-top:0;
+}
+/* contact */
+
+.subscribe-footer .col-md-3,
+.subscribe-footer .col-md-2,
+.section-browse .result-merchant h2,
+.section-browse #restuarant-list p
+{
+text-align:center;
+}
+.section-browse #restuarant-list .mytable,
+.section-browse #restuarant-list .mytable .mycol
+{
+border:0px solid red;
+width:auto;
+margin:auto;
+}
+
+.section-browse #restuarant-list a{
+margin:20px auto;
+display:table;
+}
+
+.subscribe-footer .col-md-3{
+padding-bottom:10px;
+}
+
+.section-subcribe .green-button, .section-subcribe .email
+{
+padding:10px 18px
+}
+
+.section-subcribe .email{
+font-size:15px;
+width:50%;
+}
+
+
+.search-wraps h1
+{
+margin:0;
+}
+
+.sections,
+.parallax-container.parallax-home
+{
+padding-bottom: 15px;
+padding-top: 20px;
+}
+
+.sections h2, .sections h4,
+.forgot-pass-link2,
+#frm-modal-forgotpass .back-link
+{
+margin:0;
+margin-bottom:10px;
+}
+
+img.img-cuisine{
+margin:0 auto auto;
+}
+
+#search-listgrid .col-md-7,
+#search-listgrid h2,
+#search-listgrid .col-md-3
+{
+text-align:center;
+}
+
+#search-listgrid .mytable{
+border:0px solid red;
+margin:auto;
+}
+.result-merchant .inner.list-view a.orange-button
+{
+margin:20px auto auto;
+}
+
+#search-listgrid .row{
+margin-left:0px;
+margin-right:0px;
+}
+
+#search-listgrid{
+padding-left:15px;
+padding-right:15px;
+}
+
+.section-menu ul#tabs li span
+{
+display:none;
+}
+
+.section-menu ul#tabs li i
+{
+display:block;
+}
+
+.container-medium{
+width:auto;
+}
+
+.location-fee-wrap .inner {
+overflow-x: scroll;
+}
+
+}
+
+@media only screen and (max-width : 750px) 
+{
+
+.result-merchant .logo-medium {
+max-width: 100px;
+min-height: 100px;
+}
+
+.top-menu-wrapper img.logo{
+border:0px solid yellow;
+max-width:130px;
+}
+
+.location-search-1 .left-border{
+border-right:1px solid #f75d34;
+margin-bottom:10px;
+}
+
+.indent-5percent{
+text-indent:inherit;
+}
+
+#mobile-social-login .a{
+margin-left: 15%;
+width: 30%;
+}
+
+#mobile-header{
+border:0px solid yellow;
+}
+
+.merchant-opening-hours .col-md-3,
+.merchant-opening-hours .col-md-6,
+#mobile-app-sections .into-row
+{
+float: none;
+width: 100%;
+}
+
+.menu-3 img{
+display:block;
+margin:auto auto 10px;
+max-width:50%;
+}
+
+.menu-3,
+#mobile-app-sections
+{
+text-align:center;
+}
+
+#merchant-map{
+min-height:200px;
+max-height:200px;
+}
+
+.logo-medium
+{
+max-width: 100px;
+min-width: 100px;
+}
+
+.order-progress-bar{
+background:none;
+padding-bottom:8px;
+padding-top:8px;
+border-top:0;
+}
+
+#parallax-wrap
+{
+padding-bottom:10px;
+padding-top:10px;
+}
+
+.mobile-search-menu.mytable,
+.progress-dot.mytable
+{
+display:table;
+}
+
+.search-menu,
+.order-progress-bar .container,
+#menu-tab-wrapper .category-list,
+.menu-cat .items-row a.dsktop,
+.menu-2 a.dsktop,
+.menu-3 a.dsktop,
+.section-profile #tabs li span,
+.section-browse #tabs li span,
+.app-image-wrap,
+#getapp-wrap,
+.view-receipt-front
+{
+display:none;
+}
+
+.section-browse #tabs li i,
+.section-profile ul#tabs li i
+{
+font-size:30px;
+}
+
+.menu-cat .items-row a.mbile,
+.menu-2 a.mbile,
+.menu-3 a.mbile,
+#getapp-wrap2,
+.view-receipt-mobile
+{
+display:block;
+}
+
+.section-how-it-works .steps
+{
+border:0px solid red;
+max-width: inherit;
+min-height: auto;
+}
+
+
+.top-menu-wrapper.top-home .col-a{
+padding-left:0;
+padding-right:0;
+}
+
+.section-feature-resto .col-md-9.col-sm-9
+{
+text-align:center;
+}
+
+.section-feature-resto .services-type{
+border:0px solid red;
+margin:auto;
+}
+
+.search-wraps h1
+{
+font-size:35px;
+}
+
+.sections h2, .sections h4{
+font-size:23px;
+margin:0 0 8px;
+}
+
+.sections,
+.parallax-container.parallax-home
+{
+padding-bottom: 10px;
+padding-top: 15px;
+}
+
+.section-cuisine a{
+text-align:center;
+display:block;
+}
+
+p, .search-input-wraps #s, .search-input-wraps .search-field{
+font-size:15px;
+}
+
+.section-feature-resto h2, .section-cuisine .sub-text
+{
+margin-bottom:20px
+}
+
+
+.section-cuisine a{
+padding-top:5px;
+padding-bottom:5px;
+}
+
+.section-cuisine a.even
+{
+background:#f4f4f4;
+border:1px solid #c9c7c7;
+border-left:0;
+border-right:0;
+}
+
+.section-cuisine .nopad
+{
+margin: 0;
+overflow: hidden;
+padding: 0;
+}
+
+#menu-list-wrapper
+{
+width:100%;
+}
+
+.merchant-review-wrap a.inline{
+display:block;
+margin-bottom:5px;
+}
+
+#mobile-app-sections h2{
+margin-top:auto;
+font-size:25px;
+}
+
+#mobile-app-sections{
+padding-bottom:30px;
+}
+#mobile-app-sections h3{
+font-size:20px;
+}
+
+.easy-autocomplete{
+width:100% !important;
+}
+
+
+}
+
+
+@media only screen and (max-width : 480px) 
+{
+
+.top-menu-wrapper img.logo{
+border:0px solid green;
+max-width:110px;
+}
+
+.section-order-history table tr td,
+.section-credit-card table tr td
+{
+display: block;
+text-align: center;
+}
+.section-order-history table tr.tr_mobile,
+.section-credit-card table tr
+{
+margin-bottom:15px;
+display:block;
+}
+
+.section-credit-card table thead{
+display:none;
+}
+
+.section-order-history table tr td p{
+font-size:13px;
+}
+
+#getapp-wrap2 img{
+max-width:100px;
+}
+
+#getapp-wrap2{
+margin:auto;
+width:260px;
+}
+
+#mobile-header{
+border:0px solid green;
+}
+
+.menu-nav-mobile, .cart-mobile-handle{
+width:15%;
+}
+
+.merchant-review-wrap .into-row,
+.view-food-item-wrap .into-row
+{
+float:none;
+width:auto;
+}
+
+.view-food-item-wrap .into-row-2{
+width:32%;
+float:none;
+display:inline-table;
+margin-bottom:8px;
+text-align:center;
+padding:0;
+}
+.view-food-item-wrap .into-row-2.text-to-right{
+text-align:right;
+}
+.view-food-item-wrap .into-row-2.text-to-left{
+text-align:left;
+}
+
+.view-food-item-wrap .to-hide{
+display:none;
+}
+.view-food-item-wrap .to-show{
+display:inline;
+}
+
+.view-food-item-wrap .into-row
+{
+text-align:center;
+margin-bottom:5px;
+}
+
+.merchant-review-wrap a.inline
+{
+display:inline-block;
+margin:auto;
+}
+
+.section-menu ul#tabs li
+{
+padding:5px 10px;
+}
+
+.section-menu ul#tabs li i
+{
+font-size:25px;
+}
+
+.logo-medium
+{
+max-width: 80px;
+min-width: 80px;
+}
+
+.search-input-wraps
+{
+padding:8px 18px
+}
+
+.search-wraps h1{
+font-size:30px;
+}
+.sections h2, .sections h4{
+font-size:20px;
+}
+
+p, .search-input-wraps #s, .search-input-wraps .search-field,
+.section-subcribe .email,
+.section-subcribe .green-button, .section-subcribe .email
+{
+font-size:14px;
+}
+
+.search-input-wraps button[type="submit"],
+#mobile-app-sections h2
+{
+font-size:23px;
+}
+
+.search-wraps h1{
+font-size:28px;
+margin-bottom:8px;
+}
+
+
+.section-how-it-works .steps img{
+max-width:80px;
+}
+
+.section-how-it-works h3,
+.mobile-search-menu a i
+{
+font-size:18px;
+}
+
+.section-subcribe .email
+{
+width:100%;
+}
+
+.mobile-search-menu.mytable
+{
+width:70%;
+}
+
+.sort-wrap .row .col-md-6
+{
+float:none;
+width:100%;
+text-align:center;
+margin-bottom:8px;
+}
+
+#mobile-filter-handle, #mobile-viewmap-handle,
+.sort-wrap .orange-button
+{
+display:inline-block;
+float:none;
+}
+
+.menu-header .mytable
+{
+width:auto;
+}
+
+#search-listgrid .mytable,
+#search-listgrid .mytable .mycol,
+.menu-header .mytable,
+.menu-header .mytable .mycol
+{
+display:block;
+}
+
+.menu-header .mytable .mycol
+{
+padding-top:3px;
+padding-bottom:3px;
+}
+
+.result-merchant .inner.list-view a.orange-button
+{
+font-size:14px ;
+}
+
+#mobile-app-sections h2{
+font-size:20px;
+}
+#mobile-app-sections h3{
+font-size:16px;
+}
+
+#mobile-app-sections{
+padding-top:10px;
+padding-bottom:10px;
+}
+
+#mobile-app-sections h3{
+margin-bottom:10px;
+}
+
+.section-subcribe h2{
+line-height:1;
+}
+
+.section-footer a{
+font-size:12px;
+}
+
+.top-menu-wrapper{
+border-bottom:1px solid #14171b;
+}
+
+.fb-button.orange-button,
+.google-button.orange-button
+{
+width:100%;
+}
+
+.language-selection-wrap {
+padding:0;
+}
+.language-selection-wrap .orange-button{
+font-size:11px;
+}
+.language-selection-close{
+top:2%;
+}
+
+#menu-tab-wrapper .normal-price{
+display:block;
+}
+
+}
+
+@media only screen and (max-width : 320px)
+{
+
+.top-menu-wrapper img.logo{
+border:0px solid orange;
+}
+
+
+}
